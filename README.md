@@ -1,1 +1,1 @@
-# Leguaje_de_programacion-python
+# Lenguaje_de_programacion-python
